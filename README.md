@@ -1,2 +1,2 @@
 # codellm_eval
-Michael Peng UROP project
+Editable knowledge base for retrieval-augmented generation (RAG)
